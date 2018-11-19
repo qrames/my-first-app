@@ -1,0 +1,16 @@
+ul.heroes {
+  padding: 0;
+  &>li {
+    text-align: left;
+    background-color: #93D9C5;
+    line-height: 3rem;
+    height: 3rem;
+    width: 300px;
+    border-radius: 2rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    &.selected {
+      background-color: #92D995;
+    }
+  }
+}
