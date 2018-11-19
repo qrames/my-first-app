@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 import { HeroesComponent } from './heroes/heroes.component';
+import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 
 
 

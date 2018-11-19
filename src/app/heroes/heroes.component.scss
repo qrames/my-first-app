@@ -14,3 +14,8 @@ ul.heroes {
     }
   }
 }
+section.heroList {
+  display: flex;
+  max-width: 100vw;
+  flex-wrap: wrap;
+}
