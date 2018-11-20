@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 body{
-  color: #212121;
+  color: #404040;
   background-color: #E7EEEC;
 }
 .circle{
@@ -11,4 +11,16 @@ body{
   border-radius: 50%;
   background-color: #36302D;
   color: #FFFFFF;
+}
+.btn{
+  background-color: #2C1650;
+  border: none;
+  border-bottom: solid 0.5rem #35438C;
+  padding: 1rem 3rem ;
+  color: #B8D0DE;
+}
+.btn:hover{
+  background-color: #6226C4;
+  border-bottom: solid 0.5rem #9FA7D6;
+
 }
